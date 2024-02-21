@@ -65,6 +65,6 @@ The client connection must be established once the server connection is establis
 - Later, connect with the server using the "make clientPerson" command. (I have used another machine for the client "in-csci-rrpc03.cs.iupui.edu")
 
 # Observations and Results
-- There are mentioned in the Report.pdf
+- They are mentioned in the Report.pdf
 - In the report an in-depth report outlining the classes, class diagrams, domain models and use cases have been updated.
 - Also a JAR file is updated which allows easy execution of the code.
